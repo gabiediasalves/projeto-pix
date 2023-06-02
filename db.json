@@ -1,0 +1,50 @@
+{
+    "dados": [
+      {
+        "agencia": "",
+        "banco": {
+          "CNPJ": "",
+          "codigo": "",
+          "nome": ""
+        },
+        "dvAgencia": "",
+        "dvConta": "",
+        "id": "",
+        "numero": "",
+        "tipoConta": "",
+        "titular": {
+          "CPF": "",
+          "RG": "",
+          "emails": [
+            {
+              "email": "",
+              "pessoa": null
+            },
+            {
+              "email": "",
+              "pessoa": null
+            }
+          ],
+          "enderecos": [
+            {
+              "enderecoCompleto": "",
+              "id": null,
+              "pessoa": null
+            }
+          ],
+          "id": null,
+          "nome": "",
+          "nomeMae": "",
+          "nomePai": "",
+          "telefones": [
+            {
+              "id": null,
+              "numero": "",
+              "pessoa": null
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+.Pix_container{
+    padding: 4em;
+    margin-left: 300px;
+    margin-right: 400px;
+}
+
+.Pix_container h1{
+    text-align: center;
+}
+
+.Pix_container h3{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: left;
+    color: rgb(148, 0, 0);
+}
+

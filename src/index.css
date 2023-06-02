@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+}
+
+:root{
+  --main-color: rgb(204, 20, 20);
+  --second-color: rgb(58, 108, 62);
+}
+
+.navbar,.bg-body-tertiary{
+  padding: 15px;
+  box-shadow: 5px 10px 40px -23px rgba(0,0,0,0.75);
+  color: var(--main-color);
+}
+
+.navbar-brand{
+  color: var(--main-color);
+  font-weight: 700;
+}
+.navbar-brand2{
+  color: var(--main-color);
+}
+
+.navbar-brand2:hover{
+  color: var(--second-color);
+  transition: 0.5s;
+}
